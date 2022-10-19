@@ -1,0 +1,61 @@
+---
+import MainHead from '../components/MainHead.astro';
+import Footer from '../components/Footer.astro';
+import Nav from '../components/Nav.astro';
+---
+
+<html lang="en">
+	<head>
+		<MainHead title="About | Donovan Briend" description="About Donovan Briend" />
+		<style>
+			.heroImg {
+				max-height: 24rem;
+				object-fit: cover;
+				overflow: hidden;
+			}
+
+			.heroImg img {
+				width: 100%;
+			}
+
+			.bio {
+				font-size: var(--f-u1);
+				line-height: 2;
+				margin-top: 4em;
+			}
+
+			.wrapper.bio {
+				max-width: 50em;
+			}
+		</style>
+	</head>
+	<body>
+		<Nav />
+		<div class="wrapper">
+			<h1>About Donovan</h1>
+			<div class="heroImg">
+				<img
+					width="1400"
+					height="350"
+					src="https://i.ibb.co/4T0mrc6/maPP-2.png?auto=format&fit=crop&w=1400&h=350&q=75"
+				/>
+			</div>
+			<div class="bio wrapper">
+				<p>
+					My name is Donovan Briend. I'm 19 years old and I'm doing my 2nd year of BUT Informatique (Bachelor of computer science, 3 years technical degree), in Gradignan, France.
+				</p>
+				<p>
+					Born in a world guided by computers, I have always been interested in the world of technology. I am passionate about the web and I am constantly looking for new ways to improve my skills.
+					I was interested in computers from a very young age, especially in the world of video games.
+				</p>
+				<p>
+					These last ones guided me towards this way that i take today.
+				</p>
+				<p>
+					I am currently looking for a second year internship abroad, lasting two months starting mid-April.
+				</p>
+			</div>
+		</div>
+		<Footer />
+	</body>
+</html>
