@@ -5,7 +5,7 @@ client: Self
 publishDate: 2020-05-05 00:00:00
 img: https://i.ibb.co/KGwHwjQ/penguinbg.jpg
 description: |
-  We have created a penguin image API, inspired by APIs like Dog API or Cat API
+  A penguin image API, inspired by APIs like Dog API or Cat API
 tags:
   - api
   - regex
