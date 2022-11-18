@@ -15,3 +15,5 @@ tags:
 We had to implement the RSA cryptosystem in Python.
 
 We used a lot of math.
+
+>>>>>>>> _Note : this is a school project_

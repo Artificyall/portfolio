@@ -19,3 +19,5 @@ Team work on Windows Form .net application and sharing of our achievements to ha
 Functional and modern application with a complete database.
 
 Design entirely made by me.
+
+>>>>>>>> _Note : this is a school project_

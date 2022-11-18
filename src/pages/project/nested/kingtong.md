@@ -16,3 +16,5 @@ The website respects the rules of web design.
 The website is responsive.
 
 The website is accessible at this address: https://maud-genetet.github.io/king-tongs/
+
+>>>>>>>> _Note : this is a school project_

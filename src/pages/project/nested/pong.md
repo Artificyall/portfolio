@@ -18,3 +18,5 @@ I used Processing, Photoshop and algorithmic logic.
 The skills implemented: creation of graphic interactivity and graphic elements and implementation of interaction with the user and the environment.
 
 The result is a functional game with several game modes available (4 balls and 1 ball), teleportation portals and obstacles randomly placed on the playing field.
+
+>>>>>>>> _Note : this is a school project_

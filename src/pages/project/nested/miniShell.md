@@ -20,3 +20,5 @@ At the end we had to be able to :
 - Run __external__ commands (ls, cp, rm..)
 
 - Manage jobs with the command __jobs__ when the commands are launched asynchronously
+
+>>>>>>>> _Note : this is a school project_

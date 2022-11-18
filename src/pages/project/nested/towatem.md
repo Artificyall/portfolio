@@ -22,3 +22,5 @@ Creation of coherent unit tests corresponding to each method.
 Use of Git.
 
 Then, creation of an AI that automatically plays with the best possible move.
+
+>>>>>>>> _Note : this is a school project_

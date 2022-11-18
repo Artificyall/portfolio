@@ -12,3 +12,5 @@ tags:
 Discovery of virtual machines and new OS, group decision making.
 
 Machine virtuelle fonctionnelle et en accord avec la demande client.
+
+>>>>>>>> _Note : this is a school project_

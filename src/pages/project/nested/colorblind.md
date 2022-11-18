@@ -15,3 +15,5 @@ As a colorblind person, I wanted to create a tool that could help me recognize c
 Code of different functionalities, one displaying a color randomly, accompanied by its Hexa code, the other allowing to display according to a parameter a color of a certain type.
 
 The bot is functional and waiting for new features but it doesn't answer yet to what I wanted to do in the first place.
+
+>>>>>>>> _Note : this is a personal project_
