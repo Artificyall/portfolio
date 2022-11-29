@@ -3,7 +3,7 @@ layout: ../../../layouts/project.astro
 title: Mini shell
 client: Self
 publishDate: 2022-11-18 09:29:00
-img: https://artificyal.github.io/myportfolio/data/color.png
+img: https://i.ibb.co/5rt17QB/shell.png
 description: |
     Creation of a mini shell in C.
 tags:

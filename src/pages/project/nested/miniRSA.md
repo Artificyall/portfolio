@@ -3,7 +3,7 @@ layout: ../../../layouts/project.astro
 title: Mini RSA
 client: Self
 publishDate: 2022-11-18 09:17:00
-img: https://artificyal.github.io/myportfolio/data/color.png
+img: https://i.ibb.co/pWKVkwV/rsa.png
 description: |
     Implementation of the RSA algorithm in Python.
 tags:
