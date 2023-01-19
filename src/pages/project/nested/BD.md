@@ -3,7 +3,7 @@ layout: ../../../layouts/project.astro
 title: Wine DB
 client: Self
 publishDate: 2020-03-01 00:00:00
-img: https://artificyal.github.io/myportfolio/data/vin.png
+img: https://artificyal.github.io/myportfolio/data/vin.pn.g
 description: |
   Development of an inventory management application for a fake company in Bordeaux.
 tags:

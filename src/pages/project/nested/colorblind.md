@@ -5,7 +5,7 @@ client: Self
 publishDate: 2020-04-04 00:00:00
 img: https://artificyal.github.io/myportfolio/data/color.png
 description: |
-  Creation of a bot discord to help color blind people.
+  Creation of a discord bot to help color blind people.
 tags:
   - JS
 ---

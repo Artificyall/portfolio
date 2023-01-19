@@ -13,6 +13,8 @@ tags:
 
 Development of a shell in C.
 
+We were working in a team of 3 people.
+
 At the end we had to be able to :
 
 - Run __internal__ commands (pwd, mkdir, cd..)

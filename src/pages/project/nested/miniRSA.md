@@ -14,6 +14,8 @@ tags:
 
 We had to implement the RSA cryptosystem in Python.
 
-We used a lot of math.
+We were working in a team of 3 people.
+
+We used a lot of math aswell as Python.
 
 >>>>>>>> _Note : this is a school project_
